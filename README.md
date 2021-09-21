@@ -7,6 +7,8 @@ What do you do if you're looking for something to be done by a group of people, 
 Maybe you just posted your first blog article and you want some feedback. Perhaps you're a fourth year psych student looking for research participants for an online survey for your thesis. Or maybe you've just built a new app and you want people to give it a try. As someone who's been in all of these situations, but isn't keen on building up a personal audience, I wanted to come up with a solution for finding an audience without the need to maintain an audience.
 
 And my solution was Easy Asks.
+[Check out the case study](https://www.lamarelimbo.com/case-studies/easy-asks-case-study "Easy Asks's Case Study")
+
 	
 ## Technologies
 Project is created with:
@@ -15,7 +17,10 @@ Project is created with:
 * NPM
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, check it out live:
+[Easy Asks Live Site](https://www.easyasks.com/ "Easy Asks's Homepage")
+
+or install it locally using npm:
 
 ```
 $ npm run server
