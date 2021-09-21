@@ -20,7 +20,7 @@ Project is created with:
 To run this project, check it out live:
 [Easy Asks Live Site](https://www.easyasks.com/ "Easy Asks's Homepage")
 
-or install it locally using npm:
+or run it locally using npm:
 
 ```
 $ npm run server
